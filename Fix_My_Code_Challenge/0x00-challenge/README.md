@@ -34,6 +34,4 @@ Something is going wrong….
 #advanced
 Please find here my implementation of a Double linked list in C: source code
 
-Something is going wrong….
-
-
+Something is going wrong.
